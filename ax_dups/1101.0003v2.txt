@@ -1,0 +1,1019 @@
+Testing for Large Extra Dimensions with Neutrino Oscillations
+P. A. N. Machado,1,  H. Nunokawa,2,  and R. Zukanovich Funchal1, 
+2
+
+Instituto de F´ isica, Universidade de S~o Paulo, C. P. 66.318, 05315-970 S~o Paulo, Brazil a a Departamento de F´ isica, Pontif´ icia Universidade Cat´lica do Rio de Janeiro, C. P. 38071, 22452-970, Rio de Janeiro, Brazil o We consider a model where sterile neutrinos can propagate in a large compactified extra dimension giving rise to Kaluza-Klein (KK) modes and the standard model left-handed neutrinos are confined to a 4-dimensional spacetime brane. The KK modes mix with the standard neutrinos modifying their oscillation pattern. We examine former and current experiments such as CHOOZ, KamLAND, and MINOS to estimate the impact of the possible presence of such KK modes on the determination of the neutrino oscillation parameters and simultaneously obtain limits on the size of the largest extra dimension. We found that the presence of the KK modes does not essentially improve the quality of the fit compared to the case of the standard oscillation. By combining the results from CHOOZ, KamLAND and MINOS, in the limit of a vanishing lightest neutrino mass, we obtain the stronger bound on the size of the extra dimension as  1.0(0.6) µm at 99% C. L. for normal (inverted) mass hierarchy. If the lightest neutrino mass turn out to be larger, 0.2 eV, for example, we obtain the bound  0.1 µm. We also discuss the expected sensitivities on the size of the extra dimension for future experiments such as Double CHOOZ, T2K and NOA.
+PACS numbers: 14.60.Pq,14.60.St,13.15.+g
+
+1
+
+arXiv:1101.0003v2 [hep-ph] 4 Aug 2011
+
+I.
+
+INTRODUCTION
+
+Our observable 1+3-dimensional universe could be a surface, the brane, embedded in a dimensionally richer 1+3+d-dimensional spacetime (d being the number of extra dimension), the bulk. This intriguing idea can be motivated by string theory, where at least 6 extra spatial dimensions are required, in particular, by stringy inspired models designed to address the disparity between the electroweak ( 1 TeV) and the gravity ( 1016 TeV) scales. There are two basic scenarios commonly evoked to generate the hierarchy between these two fundamental scales of nature: either by suggesting the source of the hierarchy to be the volume of a flat extra dimensional space [1] or the strong curvature of that space [2]. In this paper we are interested in constraining the large extra dimension (LED) scenario [1] in connection with neutrino physics since right handed neutrinos (standard model (SM) singlet fields) in this case can, as well as gravity, propagate in the bulk. Tabletop experiments devised to test for deviations of Newtonian gravity can only probe LED up to submillimeter sizes. The most stringent upper limit given by a torsion pendulum instrument is 200 µm at 95% C. L. for the size of the largest flat extra dimension regardless of the number of d [3]. Neutrino physics can be considerably more sensitive to LED.
+
+We should, however, mention that astrophysical bounds on LED are in general much more stringent (see e.g., [4], and references therein) than the ones obtained by the terrestrial experiments including that from collides. However, these astrophysical bounds are not completely model independent and therefore, we believe that studying the possible impact of LED which can be probed (independently from astrophysical constraints) by terrestrial experiments is still worthwhile. There are mounting evidences from several solar [5], atmospheric [6] and terrestrial [7­12] neutrino experiments that neutrinos undergo flavor oscillations due to mass and mixing. As it was shown in [13­17], LED can have strong impact on neutrino oscillation probabilities. However, since the current neutrino data mentioned above are perfectly consistent with the standard three flavor oscillation scheme, the effect of LED, if it exists, is expected to be present only as a subdominant effect on top of the usual oscillation. Therefore, as was done in [18], in this work we assume that LED effect would only perturb somewhat the standard oscillation pattern and try to constrain LED using the current oscillation data. In this paper, we studied the possible impact of LED on the former and current oscillation experiments CHOOZ [19], KamLAND [11, 12] and MINOS [8­10] in order to obtain the upper bound on the size of the largest extra dimension, which turns out to be submicrometer range. We do not consider solar and atmospheric neutrino data in this work because the analysis would become much more complicated due to the matter effect and also because we expect similar bounds from these data (see Sec. V). We also calculate the expected sensi-
+
+ Electronic  Electronic
+
+address: accioly@fma.if.usp.br address: nunokawa@puc-rio.br  Electronic address: zukanov@if.usp.br
+
+2 tivities on LED for future experiments such as Double CHOOZ [20], T2K [21], and NOA [22, 23]. This paper is organized as follows. In Sec. II we describe the framework of our study of neutrino oscillations with LED. In Sec. III and IV we discuss the best current and future limits that can be established on the size of the largest extra dimension from neutrino oscillation data. Finally Sec. V is devoted to discussions and general conclusions. In Appendix A we describe the solution of the neutrino evolution equation for a constant matter potential whereas in Appendix B we describe the details of our 2 analysis. fields can propagate in a higher dimensional bulk, with at least two compactified extra dimensions (d  2). We will assume that one of these extra dimensions is compactified on a circle of radius a, much larger than the size of the others so that we can in practice use a 5-dimensional treatment. By this assumption, our bounds are always more conservative than the ones obtained by assuming all the LED radius a are the same for d  2. In other words, if we have adopted the same assumption (of equal raduis for all LED), we should have obtained stronger bounds on a for d  2 because the conversion into KK modes would be more efficient under such an assumption for d  2. The 3 bulk fermions will have Yukawa couplings with the SM Higgs and the brane neutrinos ultimately leading to Dirac masses and mixings among active species and sterile Kaluza-Klein (KK) modes. The 4-dimensional Lagrangian which describes the charged current (CC) interaction of the brane neutrinos with the W as well as the mass term resulting from these couplings with the bulk fermions in the brane, after electroweak symmetry breaking and dimensional reduction, can be written as [18]
+
+II.
+
+NEUTRINO OSCILLATION FORMALISM WITH LED
+
+We consider here the model discussed in Refs. [16­18] where the 3 standard model active left-handed neutrinos (0) fields L ( = e, µ,  ), as well as all the other SM fields, including the Higgs, are confined to propagate in a 4dimensional brane, while 3 families of SM singlet fermion
+
+Leff = Lmass + LCC =
+,
+
+mD  L R + 
+
+(0)
+
+(0)
+
+
+
+
+
+2
+N =1
+
+ L R
+
+(0)
+
+(N )
+
++
+
+
+N (N ) (N ) g  L R +  a 2 N =1
+
+
+
+(0) l  µ (1 - 5 )  Wµ + h.c., (1) 
+
+where the Greek indices ,  = e, µ,  , the capital Roman index N = 1, 2, 3, ..., , mD is a Dirac mass matrix,  R , R and L are the linear combinations of the (0) bulk fermion fields that couple to the SM neutrinos L . After performing unitary transformations in order to diagonalize mD we arrive at the neutrino evolution equa tion (A7) that can be solved to obtain the eigenvalues (N ) (0N ) j and amplitudes Wij (see Appendix A), so that the transition probability of  into  (subscript L is omitted) at a distance L from production,
+(0) P (   ; L) = |A (0)  (0) (L)|2 ,
+ 
+
+(0)
+
+(N )
+
+(N )
+
+evolution Eq. (A11) in the Appendix, and U and W are the mixing matrices for active and KK neutrino modes, respectively. This transition probabilities, even in vacuum, depend (0N ) on the neutrino mass hierarchy since both Wij and j are functions of the dimensionless parameter j   2 mj a, where mj (j = 1, 2, 3) are the neutrino masses. We will consider here two possibilities for the mass hierarchy: normal hierarchy (NH) with m3 > m2 > m1 = m0 and inverted hierarchy (IH) with m2 > m1 > m3 = m0 . As m0 increases NH and IH become degenerate. We define the mass squared differences as m2  m2 - m2 ij i j (i, j = 1, 2, 3). To understand qualitatively the results to be presented in Secs. III and IV we discuss here what is to be expected of the effects of LED on the survival probabilities. In Fig. 1 we show the survival probabilities for µ and e ¯ as a function of the neutrino energy E in vacuum for NH and IH for MINOS (735 km), KamLAND (180 km) and CHOOZ (1 km), assuming m0 = 0 and a = 0.5 µm. There are three basic effects of LED: a displacement of the minima with respect to the standard survival probabilities, a global reduction of the flavor survival probabilities as SM neutrinos can oscillate into KK modes and the appearance of extra wiggles on the probability
+(N )
+
+(0)
+
+(0)
+
+(0)
+
+(2)
+
+can be given in terms of the transition amplitude
+3   Ui Uk Wij i,j,k=1 N =0 (N )2 (0N )
+
+A (0)  (0) (L) =
+ 
+
+Wkj
+
+(0N )
+
+× exp i
+
+j L 2Ea2
+
+,
+
+(3)
+
+where E is the neutrino energy, L is the baseline dis(N ) tance, j is the eigenvalues of the Hamiltonian of the
+
+3
+1.0 0.8 P   0.6
+
+735 km
+
+Standard
+0.4 0.2 0.0 LED: m0 0 a 5 10 7 m Normal hierarchy Inverted hierarchy 1 2 3 E GeV 4 5
+
+ability by say  10% by the effect due to LED, at least 2 one of the i should be order of  0.1. Since we know, from atmospheric neutrino oscillation, that at least one neutrino has a mass mi  0.05 eV, we can estimate that 2 i  0.1 implies a  5 eV-1 = 1 µm. So one can expect the terrestrial experiments to be sensitive around this scale, which is consistent with our results discussed in the next section. From now on we will drop the (0) superscript when referring to flavor oscillations. In the case of µ  µ , from Fig. 1 we see that the effect of LED is basically (LED) the same for NH and IH. This is because A (0) (0) 
+µ µ 2 2 i i |Uµi | is of the same order for NH (mainly driven by 3 ) and IH (mainly driven by 2 ). On the other hand, in the case of e  e the effect of LED is significantly ¯ ¯ (LED) 2 larger for IH than NH since A (0) (0)  i i |Uei |2 = 2 2 2 2 i=1,2 i |Uei | + 3 sin 13 sin2 13 for NH (since 3 e ¯e ¯ 
+
+1.0 0.8 P e e 0.6 0.4 0.2 0.0
+
+180 km
+
+2
+
+3
+
+4
+
+5 E MeV
+
+6
+
+7
+
+8
+
+1.0
+
+0.9 P e e
+
+0.8
+
+1 km
+0.7 2 3 4 5 E MeV 6 7 8
+
+FIG. 1: In the top (middle and bottom) panel we show the survival probability for µ (¯e ) as a function of the neutrino  energy E for the baseline L = 735 km (180 km and 1 km) for a = 0 (no LED, black curve) and a = 0.5 µm for NH (blue dashed curve) and IH (red dotted curve). The other oscillation parameters were set to sin2 12 = 0.32, sin2 23 = 0.5, sin2 213 = 0.07, m2 = 7.59 × 10-5 eV2 , and |m2 | = 21 31 2.46 × 10-3 eV2 . The lightest neutrino mass, m0 , was set to zero.
+
+pattern due to the fast oscillations to these new massive modes. When matter effects can be ignored, the impact of LED in the survival amplitude, to leading order in i , is such (LED) 2 that A (0) (0)  i i |Ui |2 (see Eq. A21). Therefore,   roughly speaking, in order to modify the standard prob-
+
+is suppressed due to small 1 , 2 for vanishing m0 ) whereas for IH the dominant LED contributions (due to 1 and 2 ) are not suppressed. In this paper we do not consider the appearance channels such as µ  e and µ  e due to the following ¯ ¯ reasons. First of all, when 13 is zero or much smaller than the current bound, we found that the impact of LED for these appearance channels is very small compared with that of the disappearance modes considered in this work. In principle, even if 13 is zero, LED can induce a flavor transition such as µ  e (for T2K and NOA) through the right handed KK modes but such a transition is a kind of second order effect (this is because, ignoring oscillation driven by solar parameters, µ would not be converted directly to e but only through KK modes) whereas the impact of LED for the disappearance channel is the first order effect, or it is the consequence of the direct transition from active to sterile KK modes. This argument applies also to the appearance experiments like LSND [24], Karmen [25] and MiniBOONE [26], and therefore we do not consider these experiments in this work, as they do not make any significant contribution to improve the bounds we obtained. On the other hand, if 13 is large enough to be observed by T2K and NOA (in the absence of LED), then the impact of LED can be sizable but only as a small perturbation on top of the standard oscillation unless we consider LED parameters not allowed by the disappearance modes. While LED can be potentially harmful in the appearance modes for the determination of the mass hierarchy and/or CP phase delta, we believe that the appearance mode is not important (due to much smaller statistics than the disappearance ones) in constraining LED.
+III. CURRENT EXPERIMENTAL LIMITS
+
+Here we discuss the limits on the size of LED one can obtain from the former and current neutrino oscillation
+
+4 experiments CHOOZ, KamLAND and MINOS. We could have considered other terrestrial experiments in our analysis, but we have restricted ourselves to these three. Regarding the long baseline experiments, KamLAND and MINOS are currently the best ones in terms of statistic and systematics. While the inclusion of other short baseline experiments could, in principle, improve our results, we have verified that this improvement is not very significant, since a large fraction of the uncertainties of these experiments are correlated. We do not consider solar and atmospheric neutrino data for simplicity, and also because we do not expect significant improvement in constraining LED by adding these data (see Sec. V). of our analysis with the original results by the CHOOZ group [19] (indicated by the solid red curve) we show the result obtained by using old flux (dashed blue curve) in addition to the one with the new flux (solid blue curve). We note that our simulation using the old reactor fluxes agrees reasonably well with that of CHOOZ [19]. We verified that the inclusion of LED does not essentially change this region. This can be understood if we remember that the main effect of LED is to induce oscillations to the sterile KK modes. Since CHOOZ basically does not see any significant deviation of the average e  e probability from unity and the inclusion of LED ¯ ¯ can only lower this probability, LED cannot enlarge the CHOOZ allowed region. In Fig. 3 we show the regions in the tan2 12 - m2 21 plane allowed by the KamLAND data at 95%, 99% and 99.73% C. L. for the standard oscillation case with a = 0 (indicated by the dotted, dashed and solid curves) superimposed on the case fitted with LED (shaded colored regions). When we fit with LED we have also varied freely a, m0 and the mass hierarchy. We see that our simulation agrees reasonably with the standard result of Fig. 2 of Ref. [12], our best fit point corresponds to m2 = 7.84 × 10-5 eV2 and tan2 12 = 21 0.46 with 2 /dof = 17.3/15 = 1.15. With LED the min allowed region gets considerably larger, our best fit point here corresponds to m2 = 8.28 × 10-5 eV2 , tan2 12 = 21 0.38 and a = 0.52 µm for NH with m0 = 3.56 × 10-2 eV. However, 2 /dof = 16.8/13 = 1.29, so the inclusion of min LED does not improve the fit.
+100 CHOOZ 90 CHOOZ 90 10 m2 eV2 31
+1
+
+A.
+
+Reactor e  e Experiments: CHOOZ and ¯ ¯ KamLAND
+
+The CHOOZ experiment is a former long (for reactor) baseline reactor neutrino oscillation experiment. Its goal was to probe the atmospheric oscillation parameters in order to shed light on the atmospheric anomaly [19]. To achieve that aim, the experiment detected e produced by ¯ the French CHOOZ nuclear power plant via the inverse -decay reaction e + p  e+ + n. The e energy E is ¯ ¯ estimated from the observed prompt energy Ep of e+ and nucleon mass difference Mn - Mp as E  Ep + (Mn - Mp ) + O(Ee /Mn ), where the last term corresponds to ¯ the neutron recoil. Hence, the reaction has a 1.8 MeV threshold. The KamLAND (Kamioka Liquid scintillator AntiNeutrino Detector) is a reactor neutrino oscillation experiment that operates in the site of the former Kamiokande experiment in Japan. Since 2003 KamLAND has observed e disappearance [11] compatible with the stan¯ dard neutrino oscillation scenario, giving strong support to the MSW LMA solution to the solar neutrino problem reported by the solar neutrino experiments [5]. The KamLAND detector observes e produced by the surrounding ¯ nuclear power reactors via the same inverse -decay reaction described above. We have analyzed the last result by CHOOZ [19] and the most recent KamLAND data [12]. In fitting CHOOZ (KamLAND) data we have used the results of the new flux calculation for reactor neutrinos [27, 28] and varied m2 and 13 (m2 and 12 ) freely. We note, however, 31 21 that the change of the reactor neutrino flux to the new one has very little impact on our results in obtaining LED bounds. For both experiments, we considered priors on all other standard oscillation parameters as explained in Appendix B, except when comparing our standard KamLAND fit to [12], where we took 13 = 0. In Fig. 2 we show the region in the sin2 213 - |m2 | 31 plane allowed by CHOOZ data at 90% C. L. for the standard oscillation case with a = 0. While we used the new reactor neutrino flux [27, 28] to study the impact of LED throughout this paper, in order to compare the results
+
+hep ex 0301017 old fluxes new fluxes
+
+CHOOZ 90
+
+10
+
+2
+
+excluded
+
+10
+
+3
+
+10
+
+4
+
+0.0
+
+0.2
+
+0.4 sin2 213
+
+0.6
+
+0.8
+
+1.0
+
+FIG. 2: Allowed regions in the sin2 213 - |m2 | plane ob31 tained by fitting the CHOOZ data at 90% C. L. The result of our simulation using the old reactor fluxes is indicated by the dashed blue curve, which is to be compared with the result of the analysis A exclusion limit presented in [19] (red curve). The solid blue curve represents the allowed region using the updated reactor fluxes from [28].
+
+5
+1.8 1.6 1.4 1.2 1.0 0.8 0.6 KamLAND Standard KamLAND with LED 95 C.L. 95 C.L. 99 C.L. 99 C.L. 99.73 C.L. 99.73 C.L. Best fit Best fit
+100
+
+CHOOZ
+excluded
+10
+1
+
+4
+
+eV2
+
+m2 10 21
+
+m0 eV
+10
+2
+
+·
+0.2 0.4
+2
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+0.6 tan 12
+12 -m2 21
+
+0.8
+
+1.0
+
+10
+
+3
+
+10
+
+8
+
+10
+
+7
+
+10
+
+6
+
+a m
+FIG. 4: Excluded regions in the a - m0 plane (m0 is the lightest neutrino mass) by CHOOZ data at 90% and 99% C. L. for NH (blue curves) and IH (red curves).
+
+FIG. 3: Allowed regions in the tan plane obtained by fitting the KamLAND data at 95%, 99% and 99.73% C. L. We compare the standard oscillation scheme (lines) with the LED oscillation scheme (colored regions).
+
+We have also investigated what region in the a - m0 plane can be excluded by CHOOZ and KamLAND data. This was calculated for NH and IH at 90% (99%) C. L., by imposing 2 > 2 + 4.61 (9.21), and is presented in min Fig. 4 (CHOOZ) and Fig. 5 (KamLAND). As expected the e  e channel gives a much more stringent limit ¯ ¯ on LED for the IH case (see Fig.1). We see that CHOOZ limits are stronger than KamLAND limits. For some numerical limits see Table I. We can understand qualitatively the shape of our exclusion curves in Figs. 4 and 5 as follows. If m0 > 0.05  eV, neutrino masses are degenerate and this case the in limit has to be proportional to  = 2 m0 a, i.e., if  > max the region is excluded; this explains the linear behavior at the upper part of the plots of Figs. 4 and 5. If, however, m0 << 0.05 eV, LED will be constrained by 2,3 (NH) or 1,2 (IH) so the limit will not depend on m0 ; this explains lower part of the plots.
+
+100
+
+KamLAND
+excluded
+
+10
+
+1
+
+m0 eV
+10
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+10
+3
+
+10
+
+8
+
+10 7 a m
+
+10
+
+6
+
+FIG. 5: Same as Fig. 4 but excluded by KamLAND data. B. Accelerator µ  µ Experiment: MINOS
+
+MINOS (Main Injector Neutrino Oscillation Search) is a neutrino oscillation experiment at Fermilab that has been running since the 2006 accelerator-beam µ disappearance [8, 9] supporting the results from K2K [7] and the atmospheric neutrino experiments [6]. MINOS has a magnetized near detector with 29 t fiducial mass at 1.04 km from the production target and a magnetized far detector with a fiducial mass of 4 kt at 735 km. Recently MINOS has also reported the observation of acceleratorbeam µ disappearance [10], which we will not consider ¯ in this work due to low statistics. In MINOS µ are
+
+identified by charged current interactions and the sign of the associated muon produced which is determined by the muon curvature under the detectors magnetic fields. The main background is due to neutral current events. We have analyzed the most recent MINOS data in the µ  µ mode [10]. In Fig. 6 we show the allowed regions in the sin2 223 - |m2 | plane at 68% and 90% C. L. In 31 the upper panel we have the pure standard oscillation (no large extra dimension allowed, a = 0) and in the lower panel we have allowed for LED. In fitting the data we have varied |m2 | and sin2 223 freely, and considered 31 priors on all other standard oscillation parameters (see
+
+6
+MINOS     3.0 2.8
+
+100
+
+MINOS    
+excluded
+
+2.6 eV2 2.4 2.2 2.0 1.8 1.6
+
+10
+
+1
+
+3
+
+m2 10 31
+
+m0 eV
+10
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+10
+3
+
+2.8 2.6 eV2 2.4 2.2 2.0 1.8 1.6 0.80 0.85 0.90 sin2 223 0.95 1 90 C.L. 68 C.L. Best fit
+
+10
+
+8
+
+10 7 a m
+
+10
+
+6
+
+FIG. 7: Same as Fig. 4 but excluded by MINOS µ  µ data.
+
+m2 10 31
+
+3
+
+up 2 functions letting all parameters vary freely. The excluded region for LED given by the combined fit is shown in Fig. 8. We see that the combined fit improves the limits derived until here, except for NH when m0  0 where the limit is basically that given by MINOS. For some numerical limits, see Table I.
+100
+
+FIG. 6: Allowed region for the standard oscillation parameters in the sin2 223 - |m2 | plane from MINOS µ  µ 31 data. In the upper panel we assumed no LED while in the lower panel we allowed for LED in the fit.
+
+Combined
+excluded
+10
+1
+
+Appendix B for further details). When we fit with LED we have also varied freely a, m0 and the mass hierarchy. Our best fit point in the standard oscillation fit is |m2 | = 2.39 × 10-3 eV2 and sin2 223 = 1 with 31 2 /dof = 12.3/12 = 1.02. With LED the allowed remin gion gets enlarged, however the best fit point remains the same with a = 0, hence any value of m0 is allowed. The 2 /dof = 12.3/10 = 1.23, so the inclusion of LED min worsens the fit to data. We have investigated what region in the a - m0 plane can be excluded by MINOS µ  µ data. In Fig. 7 we present the excluded region calculated for NH and IH at 90% and 99% C. L. As expected the µ  µ channel is equally sensitive to NH and IH (see Fig.1). For some numerical limits, see Table I.
+
+m0 eV
+10
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+10
+3
+
+10
+
+8
+
+10
+
+7
+
+10
+
+6
+
+a m
+FIG. 8: Same as Fig. 4 but excluded by CHOOZ, KamLAND and MINOS combined data.
+
+IV. C. CHOOZ, KamLAND and MINOS Combined
+
+FUTURE TERRESTRIAL NEUTRINO OSCILLATION EXPERIMENTS
+
+We have analyzed MINOS µ  µ together with CHOOZ and KamLAND data by minimizing their added
+
+Here we discuss the possibility of improving the current limits on LED by the future neutrino oscillation experiments Double CHOOZ, NOA and T2K.
+
+7
+A. Reactor e  e Experiment: Double CHOOZ ¯ ¯
+100
+
+Double CHOOZ 3yr
+The Double CHOOZ experiment [20], is a reactor neutrino oscillation experiment that is being built in France which aims to explore the range 0.03 < sin2 213 < 0.2. There will be two identical 8.3 t liquid scintillator detectors, one at 400 m and the other at 1.05 km from the nuclear cores. The expected luminosity is 400 t GW y. We will consider 3 years of data taking in our calculations. In fitting the data we have varied |m2 | and 31 sin2 213 freely, and considered priors on all other standard parameters (See Appendix B). In Fig. 9 we show our expected sensitivity for sin2 213 as a function of |m2 | for Double CHOOZ after 3 years 31 for the standard oscillation analysis. We have verified that allowing for LED in the fit does not change this sensitivity curve as long as a < 0.3 µm. So LED cannot simulate a nonzero 13 .
+
+excluded
+10
+1
+
+m0 eV
+10
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+10
+3
+
+10
+
+8
+
+10
+
+7
+
+10
+
+6
+
+a m
+FIG. 10: Sensitivity to LED predicted for Double CHOOZ after 3 years of data taking.
+
+Double CHOOZ 3.0
+B. Accelerator µ  µ Experiments: T2K and NOA
+
+2.8 eV2
+
+2.6
+
+2.4
+
+2.2
+
+90 C.L. 99 C.L. 99.73 C.L.
+2 1
+
+2.0 10
+
+10 sin 213
+2
+
+FIG. 9: Sensitivity to sin2 213 predicted for Double CHOOZ after 3 years, without assuming LED (standard oscillation). Here we have assumed as input: sin2 213 = 0, |m2 | = 31 2.46 × 10-3 eV2 , and a = 0.
+
+We also have estimated the improvement that this experiment can provide on the limits given by CHOOZ and KamLAND. In Fig. 10 we plot the potential exclusion region on the a - m0 plane As in the case of CHOOZ and KamLAND (see Figs. 4 and 5), we obtained the better sensitivity for the IH case. For some numerical limits, see Table I.
+
+T2K (Tokai to Kamioka) [21] is an experiment currently running in Japan using a 0.75 MW µ beam from the J-PARC facility aimed at the 22.5 kt water Cherenkov detector Super-Kamiokande with a 295 km baseline. T2K in its first phase will take data in µ  µ,e mode. NOA (NuMI Off-Axis e Appearance) [23], is an experiment that is currently being built in Fermilab and it will observe µ  µ,e and µ  µ,e . The experiment ¯ ¯ will consist of a 222 t totally active scintillator detector (TASD) near detector and a 25 kt TASD far detector at 810 km and 1.12 MW of beam power. We have simulated these experiments according to Appendix B, considering 5 and 3 years of µ  µ data for T2K and NOA, respectively. In fitting the data we have varied |m2 | and sin2 223 freely, and considered priors 31 on all other standard parameters. In Fig. 11 we show the potential excluded region by T2K (5 yr) and NOA (3 yr) in the a - m0 plane The limits are basically the same for those two experiments and they do not depend on the mass hierarchy. For some numerical limits, see Table I. We see that neither of these experiments can really improve MINOS limits. The reason for that is the fact that LED induces oscillations into KK modes which are more sizable at higher energies away from the oscillation minimum (see Fig.1) as the probability is larger in this region. T2K and NOA are narrow (off-axis) beam experiments designed to measure precisely mixing parameters from the behaviors of oscillation probabilities around the first oscillation minimum, which means they are not very sen-
+
+m2 10 31
+
+3
+
+8
+100
+
+T2K  
+
+  5yr
+excluded
+
+10
+
+1
+
+Limit on a (µm) at 90% (99%) C. L. Experiment NH, m0  0 IH, m0  0 m0 = 0.2 eV CHOOZ ... 0.54(0.61) 0.13(0.14) KamLAND ... 0.79(0.91) 0.19(0.22) MINOS 0.73(0.97) 0.73(0.97) 0.12(0.16) Combined 0.75(0.98) 0.49(0.57) 0.10(0.12) Double CHOOZ ... 0.38(0.46) 0.09(0.11) T2K 0.76(0.89) 0.76(0.89) 0.13(0.16) NOA 0.80(0.92) 0.80(0.92) 0.14(0.17) TABLE I: Limits on the size a of the extra dimension for both hierarchies and degenerate neutrinos. See text for more details.
+
+m0 eV
+10
+2
+
+10
+
+3
+
+NOA  
+
+  3yr
+excluded
+
+10
+
+1
+
+10
+
+2
+
+Normal hierarchy 99 , 90 C.L. Inverted hierarchy 99 , 90 C.L.
+10
+3
+
+10
+
+8
+
+10
+
+7
+
+10
+
+6
+
+a m
+FIG. 11: Sensitivity to LED predicted for T2K (top panel) and NOA (bottom panel) after 5 and 3 years of data, respectively.
+
+sitive away from it.
+
+V.
+
+DISCUSSION AND CONCLUSIONS
+
+We have investigated the effect of LED in neutrino oscillation experiments assuming that singlet SM fermion fields can propagate in the bulk of a d-dimensional spacetime and couple to the SM neutrino fields that lie in the brane through Yukawa couplings with the Higgs. We have shown that terrestrial neutrino oscillation experiments can provide submicrometer limits on the largest extra dimension a. For hierarchical neutrinos with m0  0, CHOOZ, KamLAND and MINOS together constrain a < 0.75(0.98) µm for NH and a < 0.49(0.57) µm at 90 (99)% C. L. for IH. For degenerate neutrinos with m0 = 0.2 eV their combined data constrain a < 0.10(0.12) µm at 90 (99)% C. L.
+
+We have also found that the future Double CHOOZ experiment will be able to improve these limits by roughly 20% for the IH and 10% for the degenerate case. However, T2K and NOA due to their narrow beam cannot surpass MINOS limits. Let us discuss briefly what we can expect from solar and atmospheric neutrinos. For solar neutrinos, if the ratio 1/a is much larger than m2 , the matter effect 21 is not important as long as the impact of LED on the standard oscillation is concerned, and the effect of LED is to induce vacuum like oscillations from active to sterile states, simply reducing the overall e (or all active ) survival probability. Since the inverse of the bound we obtained from MINOS and KamLAND on a is much larger than m2 , we expect only a small reduction 21 of solar e due to LED which would not spoil the goodness of fit of solar neutrinos by the standard MSW effect. In fact in order to induce strong distortion of the solar neutrino spectra, the size of a should be in the range of  (60 - 100) µm [15], much larger than the bound we obtained. Therefore, we expect that addition of the solar neutrino data to our analysis would not improve much, if at all, the bound on the size of the LED we obtained in this paper. For atmospheric neutrinos, we have checked that for given values of the size of the LED (a) and the lightest neutrino mass (m0 ) and mass hierarchy, the magnitude of the impact of LED on the µ  µ (¯µ  µ )  ¯ and e  e (¯e  e ) survival probabilities are similar  ¯ to what we see in Fig. 1 for the relevant range of L/E from 1 - 104 km/GeV. This was done including earth matter effects making use of the formalism presented in Appendix A . We have verified that, as long as we consider parameters excluded by MINOS and/or KamLAND (shown in Figs. 4-6), LED does not make the oscillation probability deviate strongly from the standard oscillation scheme for atmospheric neutrinos. Therefore, by adding atmospheric neutrino data to our analysis, we do not expect significant improvement on the bounds obtained on LED in our paper. Let us try to make some comparison of our bounds with the ones from the LHC. In LED models the con-
+
+m0 eV
+
+9 nection between the fundamental scale of gravity, MD , the number of extra dimensions d, the size of the compactification radius a and the Planck mass MP is given d+2 2 by MD = MP /(8ad ) [29] where it was assumed that, for simplicity, the size of the all LED radii a is equal for d  2. So for d = 1 (d = 2) our limits on a imply MD > 106 TeV (MD > 22 TeV). On the other hand, the presence of LED also predicts gravition-emission and graviton exchange processes at colliders and according to Ref. [30] ATLAS and CMS at the LHC, after 36 pb-1 , can exclude MD < 3 - 4 TeV, for d = 1 and 2, depending on the ratio /MD ,  being the cutoff scale. Therefore, despite that the bounds we obtained in this work are model dependent, so far, they are stronger than the ones that come from collider physics. Recently, new flux calculations for reactor neutrinos became available [27]. We took them into account in our analysis of CHOOZ, KamLAND and Double CHOOZ but the impact of the change of the flux on our results is very small. Nevertheless, with this new flux calculation, older reactor neutrino oscillation experiments exhibit the so called reactor antineutrino anomaly recently reported in Ref. [28]. We note that, although the inclusion in our analysis of these older reactor neutrino oscillation experiments would not improve essentially the limits obtained in this work, they could favor some range of the LED parameters currently allowed (obtained in this work), and therefore, deserve further study [31]. A final comment is in order. One cannot directly apply our limits to models such as the one discussed in Ref. [32], where neutrino oscillations are modified by the presence of reconstructed nongravitational large extra dimensions. However, since the model studied here is the continuum limit of the former, we suspect that similar constraints could be derived in that case.
+Acknowledgments
+
+with respect to the active flavors by defining the unitary transformations
+(0) (0) (0) (0)
+
+L =
+i
+
+Ui iL ,
+(N )
+
+R =
+i
+
+Ri iR , (A1)
+
+R,L =
+i
+
+(N )
+
+Ri iR,iL , N  1
+
+ so that  Ui mD Rj = ij Mi , with the lower case  Roman indices i, j = 1, 2, 3. Throughout this paper Greek indices will run over the 3 active flavors, Roman lower case indices over the 3 SM families and upper case Roman indices over the KK modes. Explicitly
+
+mi a    2 mi a  a Mi = lim  2 mi a N   .  .  .  2 mi a   2 i 0  2  i 1  = lim  i 0 N   .  . .  . . . i
+
+
+
+0 1 0 . . .
+
+0 0 2 . . .
+
+... ... ... .. .
+
+0 0 0 . . .
+
+       
+
+0 0 ... N  0 ... 0  0 ... 0   2 ... 0 ,  . .. .  . . .  . . 0 0 ... N
+
+(A2)
+
+ where i = 2 mi a. Let us define the following states
+(0) (1) (2)      . . . ~ T
+
+,
+
+ = e, µ, 
+
+(A3)
+
+This work is supported by Funda¸~o de Amparo ` ca a Pesquisa do Estado de S~o Paulo (FAPESP), Funda¸~o a ca de Amparo ` Pesquisa do Estado do Rio de Janeiro a (FAPERJ) and by Conselho Nacional de Ci^ncia e Tece nologia (CNPq). The authors thank the theory group of Fermilab for their hospitality during our visit to Fermilab under the summer visitor program of 2010 (HN and RZF) and the Program for Latin American Students 2010 (PANM) where part of this work was done.
+
+i  i ~ so that
+
+(0)
+
+i
+
+(1)
+
+i
+
+(2)
+
+T
+
+...
+
+,
+
+i = 1, 2, 3
+
+(A4)
+
+
+
+   e ~ 1 ~     ~ ~  µ  = U  2  ,  ~ 3 ~ where Ue1 0 Ue2 0 Ue3 0  0 R 0 Re2 0 Re3 e1    Uµ1 0 Uµ2 0 Uµ3 0 U =  0 Rµ1 0 Rµ2 0 Rµ3   U 1 0 U 2 0 U 3 0 0 R 1 0 R 2 0 R 3       .   
+
+(A5)
+
+Appendix A: Solution of the Evolution Equation for a Constant Matter Potential
+
+(A6)
+
+While matter effects are not very important for this work, in this appendix, for the sake of completeness, we describe the solution of the evolution equation in the presence of constant matter potential in the context of large extra dimensions. See also [16, 18] where a similar procedure was adopted. We first diagonalize mD 
+
+This allows us to write the neutrino evolution equation in matter as
+
+10
+
+         1 ~ Ve 0 0 0 0 1 ~ M1 M1 d        1     i  2  =  ~ 0 M2 M2 0 ~  + U  0 Vµ 0  U   2  ,  dt 2E  3 L ~ 0 0 V 0 0 M3 M3 3 L ~ 
+
+(A7)
+
+where E is the neutrino energy and we have defined
+
+electron (neutron) number density in the medium and NC stands for neutral current. Here we describe how to obtain an analytic expres(N ) (N 0) sion for the eigenvalues i and the amplitudes Wij needed to calculate the transition amplitudes A(  (0)  ; L) in Eq. (3). If we multiply Eq. (A2) by its conjugate we get
+(0)
+
+V =
+
+V 0 0 0
+
+=
+
+e VCC + VNC 0 0 0
+
+,
+
+(A8)
+
+ with the matter potentials VCC = 2 GF ne and VNC =  - 22 GF nn . GF is the Fermi constant, ne (nn ) is the
+
+2 (N + 1/2) i  i   2i a2 Mi Mi = lim  N   .  .  .
+
+
+
+N i
+
+i 2i . . . N i 1 0 ... 0 0 4 ... 0 . . .. . . . . . . . . 0 0 . . . N2
+
+    =    i vi T vi K
+
+,
+
+(A9)
+
+where
+2 i = (N + 1/2) i ,
+
+i = 1, 2, 3 the generation indices. (A10) Defining Vij = 2Ea2
+=e,µ,  Ui Uj V we can reorga-
+
+vi = (i 2i . . . N i ) and K = diag 1 4 9 . . . N 2 with
+
+nize Eq. (A7) as
+
+
+
+           d   i  dt           (N )  1  (N )  2 (N ) 3
+
+1 (0) 2 (0) 3 (1) 1 (1) 2 (1) 3 (2) 1 (2) 2 (2) 3 . . .
+
+(0)
+
+
+
+1 + V11 V12 V13   V  2 + V22 V23 21     V32 3 + V33  V31     1 0 0      0 2 0     0 0 3   1    21 0 0 =  2Ea2   0 22 0      0 0 23    . . .   . . .  . . .      N 1 0 0     0 N 2 0  0 0 N 3
+
+
+
+1 0 0 1 0 0 0 0 0 . . .
+
+0 21 0 0 0 0 22 0 3 0 0 23 0 0 0 0 0 0 0 0 1 0 0 0 0 4 0 0 0 0 4 0 0 0 0 4 . . . . . . . . . . . . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+0 2 0 0 1 0 0 0 0 . . .
+
+. . . N 1 0 0 . . . 0 N 2 0 ... 0 0 N 3 ... 0 0 0 ... 0 0 0 ... 0 0 0 ... 0 0 0 ... 0 0 0 ... 0 0 0 . . . .. . . . . . . . 2 ... N 0 0 . . . 0 N2 0 ... 0 0 N2
+
+ (0) 1   (0)  2  (0)  3  (1)  1  (1)    2  (1)  3  (2)  1  (2)    2   (2)  3  .  .  .  (N )  1  (N )    2 (N ) 3
+
+               . (A11)            
+
+To diagonalize H we have to find the eigenvalues i
+
+(N )
+
+that solve det 2Ea2 H - 2 I = 0. One can show, by
+
+11 using the Gauss algorithm for determinant calculation that this is equivalent to calculate det (T ) = 0, where T is a 3 by 3 matrix with elements
+2 i  cot () ij + Vij , (i, j = 1, 2, 3). 2 (A13) N To find the eigenvectors wi , corresponding to the (N ) eigenvalues i we have to solve
+
+(A12)
+
+N H wi = i
+
+(N )2
+
+N wi ,
+
+(A14)
+
+Tij = -2 +
+
+N N where we denote an element of wi by (wi )M  Wij . j Explicitly in terms of these elements Eq. (A14) can be written as:
+
+(N M )
+
+K
+
+3
+
+j Wij
+
+(N 0)
+
++
+A=1
+
+A j Wij
+
+(N A)
+
++
+l=1
+
+Vjl Wil
+
+(N 0)
+
+- (i
+
+(N ) 2
+
+) Wij
+
+(N 0)
+
+= 0,
+
+(A15)
+
+and A j Wij
+(N 0)
+
++ A2 - (i
+
+(N ) 2
+
+)
+
+Wij
+
+(N A)
+
+We can obtain an equation for Wij from Eqs. (A15), and Eq. (A16) and Eq. (A10) in the limit N  : = 0. (A16)
+
+(N 0)
+
+Wij
+
+(N 0)
+
+2 j 2 + j 2
+
+
+
+(i
+
+(N ) 2
+
+)
+
+3
+
+(N ) 2 ) A=1 (i
+
+-
+
+A2
+
+- (i
+
+(N ) 2
+
+)
+
++
+l=1
+
+Vjl Wil
+
+(N 0)
+
+=0
+
+(A17)
+
+ Wij
+
+(N 0)
+
+2 j i 2
+
+(N )
+
+3
+
+cot i
+
+(N )
+
+- (i
+
+(N ) 2
+
+)
+
++
+l=1
+
+Vjl wil
+
+(N 0)
+
+=0
+
+(A18)
+
+So that for each eigenvalue i Eq. (A12) one has to solve
+3
+
+(N )
+
+obtained by solving
+
+to obtain Wil . We also need to impose the normaliza(N ) tion of the eigenvector wi with
+
+(N 0)
+
+Tjl Wil
+l=1
+
+(N 0)
+
+= 0,
+
+(A19)
+
+3
+
+Wil
+l=1
+
+(N 0)
+
+2
+
+2 1 + l
+
+2  2 (N ) (N ) - (N ) cot i + cot2 i 4 4 4i
+
+= 1.
+
+(A20)
+
+As a technical note: in practice it is a very good approximation to consider only the first five KK modes in the numerical calculation. We have verified that the inclusion of higher modes do not cause any significant change in our results. In vacuum, Tij = Ti and Wij
+(N 0)
+
+modes connected to different generations decouple. In this case, if a-1 << mi , as show in Ref. [18], we have
+2
+
+= Wi
+
+(N 0)
+
+(0N ) Wi
+
+=
+
+  1- 
+
+2 6
+
+as the KK
+
+i N
+
+2
+
+2 4 i + O(i )
+
+N =0 N = 1, 2, 3... (A21)
+
++
+
+4 O(i )
+
+12
+Appendix B: Simulation Details
+
+In this section we gather all information used to simulate the experiments. We implemented all experiments using a modified version of GLoBES [33]. To model the energy resolution, we used a following Gaussian smearing function, R (E, E ) = 1  e
+- (E-E )2
+2 2 E
+
+E 2
+
+,
+
+(B1)
+
+where E was defined according to each experiment (see below). Let us name the 2 function without any uncertainty and previous knowledge of oscillation parameters as 2 . 0 To account for previous knowledge on some set of oscillation parameters we use Gaussian priors. Consider that these parameters pi have mean values pi and mean devi^ ations pi . Then, the Gaussian priors are added to the 2 as 2 = 2 + 0
+i
+
+calculated number of events in the i-th energy bin which depend on the standard oscillation parameters and, in the case of LED, also on m0 , a and the neutrino mass hierarchy. Given the complexity of the inclusion of matter effects in the LED framework (see Appendix A), our simulations were done using the vacuum oscillation probabilities. For KamLAND and MINOS this is acceptable because the matter effects play a small role on the survival channels. For CHOOZ and Double CHOOZ, since the baseline is short, the matter effects are negligible. Finally for T2K and NOA, as long as we are fitting simulated data, the matter effects are important only in the appearance channels, which are not used.
+
+1.
+
+CHOOZ
+
+(pi - pi ) ^ . 2 pi
+
+2
+
+(B2)
+
+To deal with an experimental uncertainty (in flux, fiducial mass, etc), we modify 2  2 by adding a new pa^0 0 2 rameter x and add a penalty term x2 /x . To exemplify that, let us assume an uncertainty NC in the neutral current events normalization. If NiNC is the number of neutral current events simulated at the i-th bin, then in the 2 function we could replace NiNC  (1 + xNC )NiNC and 0 2 add the penalty term x2 /NC to the resulting 2 funcNC tion. In summary, taking into account previous knowledge in the oscillation parameters and experimental uncertainties, the resulting 2 has the form (pi - pi ) ^ + 2 pi
+2
+
+In order to reproduce Fig. 55 of Ref. [19], we considered a detector located at 1.05 km from the nuclear cores. The predicted antineutrino spectrum was based on the newest fluxes calculation available [27] and the overall normalization was chosen so that the ratio between the observed and theoretical unoscillated total number of events would match the value given by [28], which is Rexp = 0.961. Our analysis was based on rates information only, so we minimized a 2 function composed by Rexp - Rtheo 
+2
+
+2 = 0
+
+,
+
+(B4)
+
+with respect to all parameters considered free in the fit. Here Rtheo is the ratio between the observed and theoretical oscillated total number of events and  = 4.2% takes into account the statistical and systematical uncertainty.
+
+2 = 2 + ^0
+i
+
+j
+
+x2 j 2 . xj
+
+(B3)
+
+2.
+
+KamLAND
+
+For a detailed explanation about these techniques, see the GLoBES manual [33]. Generically, for the data fits we have varied some of both standard and LED oscillation parameters. When we considered Gaussian priors for a standard parameter, we based the previous knowledge on [34], using, at 1, m2 = 7.59±0.20×10-5 eV2 , m2 = 2.46±0.12×10-3 21 31 eV2 , 12 = 34.4 ± 1 , 23 = 42.8 ± 4.7 and we used a conservative limit for 13 , sin2 213 < 0.09. We did not impose any prior on CP . For all fits with LED we varied freely a, m0 and the mass hierarchy. It is useful to define the following quantities before giving the details of each experiment. For KamLAND and MINOS, Niexp are the experimental data points taken from Fig.1 of Ref. [12] and Fig. 1 of Ref. [10], respectively, while for the future experiments Niexp are the simulated data points calculated assuming fixed values for oscillation parameters. Moreover, Nitheo are the theoretically
+
+We follow our previous papers [35] in calculating the number of events expected from reactors for a total exposure of 2881 t yr. However, to calculate the unoscillated e spectrum we have updated the averaged ratios ¯ of the fission yields of the four isotopes that significantly contribute to the flux as: 235 U: 238 U: 239 Pu: 241 Pu = 0.570: 0.078: 0.295: 0.057, in accordance with Ref. [12]. The energy resolution was modeled as a Gaussian with E = 0.064 E/MeV - 0.8. We have determined the experimentally allowed regions minimizing the 2 function composed by
+17
+
+2 = 0
+i=1
+
+(Niexp - Nitheo )2 , 2 Niexp + sys Niexp 2
+
+(B5)
+
+with respect to all parameters considered free in the fit. Here sys = 4.3%. The experimental data points were
+
+13 taken from Ref. [12] in the energy window from 1.7 to 8.925 MeV (bin width of 0.425 MeV). All uncertainty is included in sys and we used the efficiency given in [12].
+3. MINOS
+36
+
+by a Gaussian with E = 80 MeV for signal reconstruction and 2% uncertainty in the flux and background. For more details see [41]. To estimate T2K sensitivity we minimize the 2 function composed by 2 = 0
+i=1
+
+MINOS simulation was performed in accordance with [36], using the NuMI neutrino beam given by [37], the neutrino-nucleon cross section from [38, 39]. The analysis was performed with neutrinos in 250 MeV bins from 1 to 5 GeV. We assumed uncertainties in the signal and background that were taken to be s = 4% and NC = 3%, respectively. The detecting efficiency was taken from Ref. [10] and the energy resolution was modeled as a Gaussian with E = 0.16 E/GeV+0.07 E/GeV to best reproduce the MINOS allowed region for the standard oscillation parameters. We have determined the experimentally allowed regions minimizing the 2 function composed by
+16
+
+(Niexp - Nitheo )2 , Niexp
+
+(B8)
+
+with respect to all parameters considered free in the fit.
+
+6.
+
+NOA
+
+2 0
+
+=
+i=1
+
+Niexp log
+
+Niexp , Nitheo
+
+(B6)
+
+with respect to all parameters considered free in the fit.
+4. Double CHOOZ
+
+The experimental setup considered was based on [23, 40], being a 25 kt TASD far detector at 810 km, 1.12 MW of beam power, 3 years of data taking in the µ  µ mode, 20 energy bins from 1 GeV to 3.5 GeV and energy resolution modeled by a Gaussian with E = 0.05 E/GeV for signal reconstruction and E = 0.10 E/GeV for neutral current reconstruction. We assumed uncertainties in the signal and background normalization using a slightly different method as discussed above. We used method "C" of GLoBES manual [33] with a and b parameters (5%:2.5%) for both signal and background. To estimate NOA sensitivity we minimize the 2 function composed by
+20
+
+Basing Double CHOOZ simulation on [20, 40], we used two identical 8.3 t liquid scintillator detectors, one at 400 m and the at 1.05 km from the nuclear cores. The expected luminosity is 400 t GW y. We considered 3 years of data taking assuming 62 energy bins from 1.8 to 8 MeV with the energy resolution modeled by a Gaussian with E = 0.12 E/MeV - 0.8. The uncertainties taken into account for both cores and detectors were: isotopic abundance (2%), core power (2%), flux normalization (0.6%), overall flux normalization (2.5%) and energy scale for each core (0.5%). To estimate Double CHOOZ sensitivity we minimize the 2 function composed by
+62 exp theo Nd,i - Nd,i 2
+
+2 = 0
+i=1
+
+(Niexp - Nitheo )2 , Niexp
+
+(B9)
+
+with respect to all parameters considered free in the fit.
+
+2 = 0
+i=1 d=N,F
+
+exp exp2 2 Nd,i + sys Nd,i
+
+,
+
+(B7)
+
+where sys = 1%, with respect to all parameters considered free in the fit.
+5. T2K
+
+We base T2K simulation on Ref. [41] where we have considered a beam power of 0.75 MW, a 22.5 kt water Cherenkov detector at 295 km from the neutrino source, 5 years of data taking in the µ  µ mode, 36 energy bins from 0.2 GeV to 2.0 GeV and energy resolution modeled
+
+14
+
+[1] N. Arkani-Hamed, S. Dimopoulos and G. Dvali, Phys. Lett. B429, 263 (1998); I. Antoniadis, N. Arkani-Hamed, S. Dimopoulos and G. Dvali, Phys. Lett. B436, 257 (1998); N. Arkani-Hamed, S. Dimopoulos and G. Dvali, Phys. Rev. D59, 086004 (1999). [2] L. Randall and R. Sundrum, Phys. Rev. Lett. 83, 3370 (1999); L. Randall and R. Sundrum, Phys. Rev. Lett. 83, 4690 (1999). [3] C. D. Hoyle et al., Phys. Rev. Lett. 86, 1418 (2001). [4] S. Hannestad and G. G. Raffelt, Phys. Rev. D 67, 125008 (2003) [Erratum-ibid. D 69, 029901 (2004)] [arXiv:hepph/0304029]. [5] K. Lande et al. [Homestake Collaboration], Astrophys. J. 496, 505 (1998); Nucl. Phys. B (Proc. Suppl) 77, 13 (1999); Y. Fukuda et al. [Kamiokande Collaboration], Phys. Rev. Lett. 77, 1683 (1996); W. Hampel et al. [Gallex Collaboration], Phys. Lett. B 447, 127 (1999); M. Altmann et al. [GNO Collaboration], Phys. Lett. B 490, 16 (2000); J. N. Abdurashitov et al. [SAGE Collaboration], Phys. Rev. C 60, 055801 (1999); V. N. Gavrin, Nucl. Phys. B (Proc. Suppl.) 91, 36 (2001);Y. Fukuda et al. [Super-Kamiokande Collaboration], Phys. Rev. Lett. 81, 1158 (1999), (E) 81, 4279 (1998); ibid, 82, 1810 (1999); ibid, 82, 2430 (1999);Y. Suzuki, Nucl. Phys. B (Proc. Suppl.) 91, 29 (2001); J. P. Cravens et al., Phys. Rev. D 78, 032002 (2008); Q.R. Ahmad et al. [SNO Collaboration], Phys. Rev. Lett. 89, 011301 (2002); S. N. Ahmed et al., Phys. Rev. Lett. 92, 181301 (2004); B. Aharmim et al., Phys. Rev. Lett. 101, 111301 (2008); Phys. Rev. C 81, 055504 (2010); C. Arpesella et al. [The Borexino Collaboration], Phys. Rev. Lett. 101, 091302 (2008) [arXiv:0805.3843 [astro-ph]]; L. Oberauer, J. Phys. Conf. Ser. 203, 012081 (2010). [6] H. S. Hirata et al. [Kamiokande Collaboration], Phys. Lett. B 205, 416 (1988); ibid. 280, 146 (1992); Y. Fukuda et al., ibid. 335, 237 (1994); R. Becker-Szendy et al. [IMB Collaboration], Phys. Rev. D 46, 3720 (1992); W. W. M. Allison et al. [Soudan-2 Collaboration], Phys. Lett. B 391, 491 (1997); Y. Fukuda et al. [Super-Kamiokande Collaboration], Phys. Rev. Lett. 81, 1562 (1998); Phys. Lett. B 436, 33 (1999); Y. Ashie et al., Phys. Rev. Lett. 93, 101801 (2004); K. Abe et al., Phys. Rev. Lett. 97, 171801 (2006); Phys. Rev. D 77, 052001 (2008). [7] M. H. Ahn et al. [K2K Collaboration], Phys. Rev. Lett. 90, 041801 (2003) [arXiv:hep-ex/0212007]; E. Aliu et al. [K2K Collaboration], Phys. Rev. Lett. 94, 081802 (2005) [arXiv:hep-ex/0411038]; M. H. Ahn et al., Phys. Rev. D 74, 072003 (2006). [8] D. G. Michael et al. [MINOS Collaboration], Phys. Rev. Lett. 97, 191801 (2006) [arXiv:hep-ex/0607088]. [9] P. Adamson et al. [MINOS Collaboration], Phys. Rev. Lett. 101, 131802 (2008) [arXiv:0806.2237 [hep-ex]]. [10] P. Vahle (MINOS Collaboration), at the XXIV International Conference on Neutrino Physics and Astrophysics (Neutrino 2010) (Athens, Greece, 2010); slides available at http://www.neutrino2010.gr/. [11] K. Eguchi et al. [KamLAND Collaboration], Phys. Rev. Lett. 90, 021802 (2003) [arXiv:hep-ex/0212021]. [12] A. Gando et al. [KamLAND Collaboration], Phys. Rev. D 83, 052002 (2011) [arXiv:1009.4771 [hep-ex]]. [13] K. R. Dienes, E. Dudas, T. Gherghetta, Nucl. Phys.
+
+B557, 25 (1999) [hep-ph/9811428]. [14] N. Arkani-Hamed, S. Dimopoulos, G. R. Dvali et al., Phys. Rev. D65, 024032 (2002) [hep-ph/9811448]. [15] G. R. Dvali and A. Y. Smirnov, Nucl. Phys. B 563, 63 (1999) [arXiv:hep-ph/9904211]. [16] R. Barbieri, P. Creminelli and A. Strumia, Nucl. Phys. B 585, 28 (2000) [arXiv:hep-ph/0002199]. [17] R. N. Mohapatra, S. Nandi and A. Perez-Lorenzana, Phys. Lett. B 466, 115 (1999) [arXiv:hep-ph/9907520]. R. N. Mohapatra and A. Perez-Lorenzana, Nucl. Phys. B 576, 466 (2000) [arXiv:hep-ph/9910474]; R. N. Mohapatra and A. Perez-Lorenzana, Nucl. Phys. B 593, 451 (2001) [arXiv:hep-ph/0006278]. [18] H. Davoudiasl, P. Langacker and M. Perelstein, Phys. Rev. D 65, 105015 (2002) [arXiv:hep-ph/0201128]. [19] M. Apollonio et al. [CHOOZ Collaboration], Eur. Phys. J. C 27, 331 (2003) [arXiv:hep-ex/0301017]. [20] F. Ardellier et al. [Double CHOOZ Collaboration], arXiv:hep-ex/0606025. [21] Y. Itow et al., arXiv:hep-ex/0106019. For an updated version, see: \protect\vrule width0pt\protect\href{http://neutrino.kek [22] D. S. Ayres et al. [NOA Collaboration], arXiv:hepex/0503053. [23] T. Yang and S. Woijcicki [NOA Collaboration] Off-AxisNote-SIM-30 (2004). [24] A. Aguilar et al. [LSND Collaboration], Phys. Rev. D 64, 112007 (2001) [arXiv:hep-ex/0104049]. [25] B. Armbruster et al. [KARMEN Collaboration], Phys. Rev. D 65, 112001 (2002) [arXiv:hep-ex/0203021]. [26] A. A. Aguilar-Arevalo et al. [MiniBooNE Collaboration], Phys. Rev. Lett. 103 (2009) 111801 [arXiv:0904.1958 [hep-ex]]. [27] T. A. Mueller et al., arXiv:1101.2663 [hep-ex]. [28] G. Mention et al., arXiv:1101.2755 [hep-ex]. [29] K. Nakamura et al. [Particle Data Group], J. Phys. G 37, 075021 (2010). [30] R. Franceschini, G. F. Giudice, P. P. Giardino, P. Lodone and A. Strumia, JHEP 1105, 092 (2011) [arXiv:1101.4919 [hep-ph]]. [31] P. A. N. Machado et al., work in preparation. [32] T. Hallgren, T. Ohlsson, G. Seidl, JHEP 0502, 049 (2005) [hep-ph/0411312]. [33] P. Huber et al., Comput. Phys. Commun. 177, 432 (2007) [arXiv:hep-ph/0701187], see \protect\vrule width0pt\protect\href{http://www.mpi-hd.m [34] M. C. Gonzalez-Garcia, M. Maltoni and J. Salvado, JHEP 1004, 056 (2010) [arXiv:1001.4524 [hep-ph]]. [35] H. Nunokawa, W. J. C. Teves and R. Zukanovich Funchal, Phys. Lett. B 562, 28 (2003) [arXiv:hepph/0212202]; H. Minakata, H. Nunokawa, W. J. C. Teves and R. Zukanovich Funchal, Phys. Rev. D 71, 013005 (2005) [arXiv:hep-ph/0407326]. [36] J. Kopp, P. A. N. Machado and S. J. Parke, Phys. Rev. D 82, 113002 (2010) [arXiv:1009.0014 [hep-ph]] [37] M. Bishai (private communication). [38] M. D. Messier, Report No. UMI-99-23965, 1999. [39] E. A. Paschos and J. Y. Yu, Phys. Rev. D 65, 033002 (2002) [arXiv:hep-ph/0107261]. [40] P. Huber, M. Lindner, T. Schwetz and W. Winter, JHEP 11, 044 (2009) [arXiv:0907.1896 [hep-ph]].
+
+15
+[41] K. Hiraide, et al., Phys. Rev. D73, 093008 (2006) [hepph/0601258].
+
+
