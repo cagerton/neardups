@@ -7,26 +7,28 @@ from nltk.probability import FreqDist
 from bitarray import bitarray
 
 from glob import glob
-
 import hashlib
-
 
 print "hi there"
 
-
-
 class SimHasher():
+    """LSH is safe and fun for kids!"""
+
+    def index_dir():
+        """Tries to check out all the files in a directory"""
+        
+        
 
     @staticmethod
-    def hashes_for_files(filenames):
+    def get_hashes_for_files(filenames):
         """Returns a map of filenames to sim-hashes"""
         map = {}
         for filename in filenames:
-            f = open("test.txt", "r")
+            f = open(filename, "r")
             raw_text = f.read()
             f.close
-            #
-
+            map[filename]=simhash(raw_text)
+        return map
 
     @staticmethod
     def simhash(raw_text):
@@ -57,9 +59,9 @@ class SimHasher():
                 hash_val[i] = True
         return hash_val
 
-h = SimHasher.simhash(raw_text)
 
 print "\nAnd the final bitvector for this string is:"
+h = SimHasher.simhash(raw_text)
 print str(h)
 
 
