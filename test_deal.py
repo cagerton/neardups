@@ -7,16 +7,14 @@ from nltk.probability import FreqDist
 from bitarray import bitarray
 import os
 import sys
-
+from optparse import OptionParser
 from glob import glob
 import hashlib
 
 do_debug = True
 def debug(msg):
   if do_debug:
-    sys.stderr.write(msg + "\n")
-
-print "hi there"
+      sys.stderr.write("D:" + msg + "\n")
 
 class SimHasher():
     """LSH is safe and fun for kids!"""
@@ -42,21 +40,21 @@ class SimHasher():
       return "\n".join(["%s: %s" % (f, hashes[f]) for f in
           hashes.keys()[:20]])
 
-    def is_near_dup(self, new_doc_name, k=3):
-      """returns true iff this document has a near duplicate already
-      in the corpus used to initialize this simhasher"""
+    def get_near_dups(self, new_doc_name, k=6):
+      """returns an array of all near-dups"""
 
       f = open(new_doc_name)
       this_hash = SimHasher.simhash(f.read())
       f.close()
 
+      near_dups = []
       for (old_doc_name, other_hash) in self.get_hashes().iteritems():
         c = (this_hash^other_hash).count()
         debug("bits differ %s vs %s: %d" % (new_doc_name, old_doc_name, c))
         if c <= k: 
-          return True
-      return False
-      
+          near_dups.append(old_doc_name)
+      return near_dups
+
     @staticmethod
     def get_hashes_for_files(filenames):
         """Returns a map of filenames to sim-hashes"""
@@ -97,6 +95,31 @@ class SimHasher():
             if v[i] > 0:
                 hash_val[i] = True
         return hash_val
+
+
+def main():
+    """Demo for when this is invoked as a script."""
+    print "\nSimHash testing demo script.\n"
+
+    parser = OptionParser("test_deal.py -d <data_dir> -t <test_file>")
+    parser.add_option("-d", "--data_dir", dest="data_dir", help="dir with data to parse")
+    parser.add_option("-t", "--test-file", dest="test_file", help="file to compare with the rest")
+    parser.add_option("-v", "--verbose", action="store_true", dest="verbose")
+    (options, args) = parser.parse_args()
+
+    if options.data_dir is None or options.test_file is None:
+        parser.error("please include data-dir and test-file")
+
+    global do_debug
+    do_debug= options.verbose
+
+    hasher = SimHasher()
+    hasher.index_dir(options.data_dir)
+    results = hasher.get_near_dups(options.test_file)
+    print results
+
+if __name__ == "__main__":
+    main()
 
 
 #print "\nAnd the final bitvector for this string is:"
