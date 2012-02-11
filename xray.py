@@ -2,28 +2,25 @@ from optparse import OptionParser
 from BeautifulSoup import BeautifulSoup
 import re
 
-
 class XRayHasher():
     """Hacky groundwork of a project that extracts some concept of structure from documents without looking at the coentent"""
 
-    # these tokens are going to be hella fat.
     def gen_token(self, tag, height=1, attrs=True, prefix=""):
         """Generates a token for a given tag."""
-        ## strip whitespace.
         if attrs:
           at_string = "".join(sorted(["K:%s;V:%s;" % (k.lower(),v.lower()) for k,v in tag.attrs]))
         else:
           at_string = ""
-        tag_string = "T:%s;%s" % (tag.name, at_string)
-        if height > 1:
-            child_tokens = [self.gen_token(child, height=height-1, attrs=attrs) for child in tag.findAll(recursive=False)]
-        else:
-            child_tokens = [[""]]
-        if len(child_tokens)==0:
-            child_tokens = [["LEAF"]]
 
-        # flatten. ugly.
-        child_tokens = [item for sublist in child_tokens for item in sublist]
+        tag_string = "T:%s;%s" % (tag.name, at_string)
+
+        if height > 1:
+            child_tokens = [token for child in tag.findAll(recursive=False) for toekn in self.gen_token(child, height=height-1, attrs=attrs)]
+        else:
+            child_tokens = [""]
+
+        if len(child_tokens)==0:
+            child_tokens = ["LEAF"]
 
         return ["%s-%s" % (tag_string, child_token) for child_token in [t for t in child_tokens]]
 
